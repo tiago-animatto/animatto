@@ -4,7 +4,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="description" content="" />
     <meta name="keywords" content="" />
-    <title>Classifibikes - Classficados online de ciclista para ciclista</title>
+    <title>Mateus Batatais - Classficados online de ciclista para ciclista</title>
 
     <!-- CSS -->
     <link type="text/css" rel="stylesheet" media="all" href="css/reset.css" />
